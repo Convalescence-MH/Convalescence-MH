@@ -1,6 +1,6 @@
 # Welcome!
 
-Hello, I’m @Convalescence-MH. I'm a computationally-focused early-career researcher transitioning into **software engineering**, **data/platform engineering**, and **scientific computing** roles. My background involves building **Python-based automation**, **HPC/Slurm pipelines**, and **data workflows** in biomedical research environments, with domain expertise in genomics, neuroscience, and biomedical data systems.
+Hello, I’m @Convalescence-MH. I'm a computationally-focused early-career researcher transitioning into **software engineering**, **data/platform engineering**, and **scientific computing** roles. My technical background involves building **Python-based automation**, **HPC/Slurm pipelines**, and **data workflows** in biomedical research environments, with domain expertise in genomics, neuroscience, and biomedical data systems.
 
 ## 🛠️ Technical Interests
 - Python (Pandas, NumPy, SciPy, sckit-learn, Matplotlib/Seaborn)
@@ -10,12 +10,12 @@ Hello, I’m @Convalescence-MH. I'm a computationally-focused early-career resea
 ## 🌱 Currently Learning
 Right now, I'm working on improving my knowledge of:
 - SQL and database design
-- Docker/Singualrity + CI
+- Docker/Singularity + CI/CD
 - Cloud services (AWS)
 
-In the longer-term, I'm interested in learning:
-- Rust, and more generally lower-level/systems programming
-- Haskell, and more generally improve at using functional programming patterns
+In the longer-term, I'm also interested in learning:
+- Rust, and more generally using lower-level/systems programming
+- Haskell, and more generally improving at using functional programming patterns
 
 ## 🫀 Personal Interests
 I’m interested in coding, science, language, and roleplaying games.
